@@ -1,0 +1,87 @@
+http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html
+-------------------------------------------------------------------------------------
+1. Think Stats: Probability and Statistics for Programmers
+By Allen B. Downey
+
+Think Stats is an introduction to Probability and Statistics for Python programmers.
+
+Think Stats emphasizes simple techniques you can use to explore real data sets and answer interesting questions. The book presents a case study using data from the National Institutes of Health. Readers are encouraged to work on a project with real datasets.
+
+http://www.greenteapress.com/thinkstats/thinkstats.pdf
+
+-------------------------------------------------------------------------------------
+2. Probabilistic Programming & Bayesian Methods for Hackers
+By Cam Davidson-Pilon
+
+An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
+
+The Bayesian method is the natural approach to inference, yet it is hidden from readers behind chapters of slow, mathematical analysis. The typical text on Bayesian inference involves two to three chapters on probability theory, then enters what Bayesian inference is. Unfortunately, due to mathematical intractability of most Bayesian models, the reader is only shown simple, artificial examples. This can leave the user with a so-what feeling about Bayesian inference. In fact, this was the author's own prior opinion.
+
+http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+
+-------------------------------------------------------------------------------------
+3. Understanding Machine Learning: From Theory to Algorithms
+By Shai Shalev-Shwartz and Shai Ben-David
+
+Machine learning is one of the fastest growing areas of computer science, with far-reaching applications. The aim of this textbook is to introduce machine learning, and the algorithmic paradigms it offers, in a principled way. The book provides a theoretical account of the fundamentals underlying machine learning and the mathematical derivations that transform these principles into practical algorithms. Following a presentation of the basics, the book covers a wide array of central topics unaddressed by previous textbooks. These include a discussion of the computational complexity of learning and the concepts of convexity and stability; important algorithmic paradigms including stochastic gradient descent, neural networks, and structured output learning; and emerging theoretical concepts such as the PAC-Bayes approach and compression-based bounds.
+
+http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/
+-------------------------------------------------------------------------------------
+4. The Elements of Statistical Learning
+By Trevor Hastie, Robert Tibshirani and Jerome Friedman
+
+This book descibes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics. It should be a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting--the first comprehensive treatment of this topic in any book.
+
+-------------------------------------------------------------------------------------
+5. An Introduction to Statistical Learning with Applications in R
+By Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences. The book also contains a number of R labs with detailed explanations on how to implement the various methods in real life settings, and should be a valuable resource for a practicing data scientist.
+
+http://www-bcf.usc.edu/~gareth/ISL/
+-------------------------------------------------------------------------------------
+6. Foundations of Data Science
+By Avrim Blum, John Hopcroft, and Ravindran Kannan
+
+While traditional areas of computer science remain highly important, increasingly researchers of the future will be involved with using computers to understand and extract usable information from massive data arising in applications, not just how to make computers useful on specific well-defined problems. With this in mind we have written this book to cover the theory likely to be useful in the next 40 years, just as an understanding of automata theory, algorithms, and related topics gave students an advantage in the last 40 years.
+
+https://www.cs.cornell.edu/jeh/book.pdf
+-------------------------------------------------------------------------------------
+7. A Programmer's Guide to Data Mining: The Ancient Art of the Numerati
+By Ron Zacharski
+
+This guide follows a learn-by-doing approach. Instead of passively reading the book, I encourage you to work through the exercises and experiment with the Python code I provide. I hope you will be actively involved in trying out and programming data mining techniques. The textbook is laid out as a series of small steps that build on each other until, by the time you complete the book, you have laid the foundation for understanding data mining techniques.
+
+http://guidetodatamining.com/
+
+-------------------------------------------------------------------------------------
+8. Mining of Massive Datasets
+By Jure Leskovec, Anand Rajaraman and Jeff Ullman
+
+The book is based on Stanford Computer Science course CS246: Mining Massive Datasets (and CS345A: Data Mining).
+
+The book, like the course, is designed at the undergraduate computer science level with no formal prerequisites. To support deeper explorations, most of the chapters are supplemented with further reading references.
+
+http://mmds.org/
+
+-------------------------------------------------------------------------------------
+9. Deep Learning
+By Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. The online version of the book is now complete and will remain available online for free.
+
+http://www.deeplearningbook.org/
+-------------------------------------------------------------------------------------
+10. Machine Learning Yearning
+By Andrew Ng
+
+AI, Machine Learning and Deep Learning are transforming numerous industries. But building a machine learning system requires that you make practical decisions:
+
+Should you collect more training data?
+Should you use end-to-end deep learning?
+How do you deal with your training set not matching your test set?
+and many more.
+Historically, the only way to learn how to make these "strategy" decisions has been a multi-year apprenticeship in a graduate program or company. I am writing a book to help you quickly gain this skill, so that you can become better at building AI systems
+
+http://www.mlyearning.org/
+-------------------------------------------------------------------------------------
