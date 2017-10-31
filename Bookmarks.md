@@ -2,3 +2,7 @@
 
 * [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
 
+* [IRIS- Deep Learning & NLP training code](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+
+* [Python - Regex](https://www.coursera.org/learn/python-network-data/lecture/bMyWb/11-1-regular-expressions)
+
